@@ -1,0 +1,2 @@
+D:\vs Users11508source repos\c++STL\day10\day10_01\Debug\day10_01.exe
+D:\vs Users11508source repos\c++STL\day10\day10_01\Debug\day10_01.pdb
